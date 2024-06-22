@@ -1,3 +1,4 @@
+Summer Project
  Smart Collaborative Document Editing Platform
 
 Welcome to the Smart Collaborative Document Editing Platform! This project aims to create a web-based platform that allows users to collaboratively edit documents in real-time. The platform incorporates machine learning for natural language processing tasks such as grammar correction and auto-suggestions, ensuring efficient and secure collaboration.
