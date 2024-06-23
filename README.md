@@ -25,10 +25,7 @@ Welcome to the Smart Collaborative Document Editing Platform! This project aims 
    - Efficient data synchronization across clients.
    - Real-time updates using WebSockets.
 
-6. Mobile Application Development:
-   - Companion mobile app for on-the-go document editing.
-
-7. Information Retrieval:
+6. Information Retrieval:
    - Search functionality to quickly find documents and content within documents.
 
  Tech Stack
