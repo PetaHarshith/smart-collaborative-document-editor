@@ -1,0 +1,25 @@
+.footer {
+    background-color: lightblue; 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: auto;
+    align-items: center;
+}
+
+.nav-links li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: blue;  
+    font-weight: bold;
+}
